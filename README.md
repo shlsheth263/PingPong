@@ -5,4 +5,4 @@ This computer almost unbeatable.
 
 Running Instructions :
 
-  python3 pong.py
+    python3 pong.py
